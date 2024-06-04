@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://reubenlyx.github.io/sitemap.xml
+Sitemap: https://reubenlow.github.io/reubenlyx.github.io//sitemap.xml
